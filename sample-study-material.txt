@@ -1,0 +1,43 @@
+Mathematics Study Guide
+
+Chapter 1: Algebra
+Algebra is the branch of mathematics that deals with symbols and the rules for manipulating those symbols. Key concepts include:
+
+Variables: Letters that represent unknown numbers
+Equations: Mathematical statements that show equality between two expressions
+Linear Equations: Equations of the form ax + b = c
+Quadratic Equations: Equations of the form ax² + bx + c = 0
+
+Important Formulas:
+- Quadratic Formula: x = (-b ± √(b²-4ac)) / 2a
+- Slope Formula: m = (y₂-y₁) / (x₂-x₁)
+- Distance Formula: d = √((x₂-x₁)² + (y₂-y₁)²)
+
+Chapter 2: Geometry
+Geometry studies shapes, sizes, and properties of space. Essential topics:
+
+Triangles: Three-sided polygons with angle sum of 180°
+Circles: Round shapes with radius, diameter, and circumference
+Area Formulas:
+- Triangle: A = ½ × base × height
+- Circle: A = πr²
+- Rectangle: A = length × width
+
+Chapter 3: Calculus
+Calculus deals with rates of change and accumulation. Core concepts:
+
+Derivatives: Measure rate of change
+Integrals: Measure accumulation
+Limits: Foundation of calculus
+Functions: Mathematical relationships between variables
+
+Practice Problems:
+1. Solve: 2x + 5 = 13
+2. Find the area of a circle with radius 7
+3. Calculate the derivative of f(x) = x²
+
+Study Tips:
+- Practice regularly with different problem types
+- Understand concepts before memorizing formulas
+- Work through examples step by step
+- Review previous chapters before exams
